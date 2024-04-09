@@ -1,0 +1,28 @@
+Question 1:
+What concepts are similar between the companies (List at least two)? 
+
+Both companies emphasize timeliness in response and feedback to maintain project momentum and respect of others in your team. Both companies emphasize small code reviews, pull requests, and code changes. They suggest not to create big changes during these review and that more can be accomplished with smaller pull requests. 
+
+What are some key differences (List at least two)? 
+
+Microsoft emphasizes respecting those involved in the code review process and to be mindful of others' opinions. Yelp mostly speaks of compromise and effective communication. Another key difference is Microsoft emphasizes not getting stuck in minor fixes an details related to style. Yelp does not emphasize this and only focuses on providing code that is easy to follow and sufficiently commented. 
+
+In general, what items should be present in a code review checklist for a development team?
+
+- The context and requirements of the code change should be communicated
+- Carefully review your code before submitting for review
+- Make sure the style is adaptable to the project and easy to follow for reviewers
+- Be timely in your communication and changes
+- Focus on the quality of the code presented
+- Be respecful of others in the review process
+- Communicate effectively with the others in the review process. 
+
+Question 2:
+Good: https://codereview.stackexchange.com/questions/272674/oop-blackjack-in-python-3-9-9
+
+I found this review helpful. The publisher did a great job communicating the background of their issue and the set up they've had so far. The interaction was respecful and it communicated effectively what was needed. Furthmore they provided code that was neat stylistically with comments and easy to understand. The reviewer was respecful and effectively outlined a response that helps the publisher's issue. This was concise and effective. 
+
+Question 3:
+Bad: https://codereview.stackexchange.com/questions/291448/rust-minesweeper-grid-generator-code-design
+
+I found this code review to not be as helpful. The publisher did not detail explicitly what issues they were having and asked for a generic review of the code. Furthermore the code is not styled well and is not easy to follow. The publisher could do better, so the reviewer can understand more what the publisher is hoping to accomplish. 
